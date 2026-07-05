@@ -540,7 +540,7 @@ def customer_page():
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
         <title>Place Order</title>
-        <link rel="stylesheet" href="/static/tailwind.css">
+        <script src="https://cdn.tailwindcss.com"></script>
     </head>
     <body class="bg-slate-50 text-slate-800 antialiased min-h-screen">
         <!-- START_WRAPPER_PLACEHOLDER -->
@@ -653,7 +653,7 @@ def admin_tickets_page():
     <html>
     <head>
         <meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
-        <title>Kitchen Display System</title><link rel="stylesheet" href="/static/tailwind.css">
+        <title>Kitchen Display System</title><script src="https://cdn.tailwindcss.com"></script>
     </head>
     <body class="bg-slate-50 text-slate-800 antialiased min-h-screen">
         <!-- START_WRAPPER_PLACEHOLDER -->
@@ -761,7 +761,7 @@ def admin_waiter_page():
     <html>
     <head>
         <meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
-        <title>Waiter Panel</title><link rel="stylesheet" href="/static/tailwind.css">
+        <title>Waiter Panel</title><script src="https://cdn.tailwindcss.com"></script>
     </head>
     <body class="bg-slate-50 text-slate-800 antialiased min-h-screen">
         <!-- START_WRAPPER_PLACEHOLDER -->
@@ -900,7 +900,7 @@ def admin_sales_page():
     <html>
     <head>
         <meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
-        <title>Sales Report</title><link rel="stylesheet" href="/static/tailwind.css">
+        <title>Sales Report</title><script src="https://cdn.tailwindcss.com"></script>
     </head>
     <body class="bg-slate-50 text-slate-800 antialiased min-h-screen">
         <!-- START_WRAPPER_PLACEHOLDER -->
@@ -986,7 +986,7 @@ def admin_revenue_page():
     <html>
     <head>
         <meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
-        <title>Revenue Summary</title><link rel="stylesheet" href="/static/tailwind.css">
+        <title>Revenue Summary</title><script src="https://cdn.tailwindcss.com"></script>
     </head>
     <body class="bg-slate-50 text-slate-800 antialiased min-h-screen">
         <!-- START_WRAPPER_PLACEHOLDER -->
@@ -1180,7 +1180,7 @@ def admin_report_page():
     <html>
     <head>
         <meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
-        <title>Smart Menu Report</title><link rel="stylesheet" href="/static/tailwind.css">
+        <title>Smart Menu Report</title><script src="https://cdn.tailwindcss.com"></script>
     </head>
     <body class="bg-slate-50 text-slate-800 antialiased min-h-screen">
         <!-- START_WRAPPER_PLACEHOLDER -->
@@ -1388,7 +1388,7 @@ def open_saved_file_endpoint(filename: str):
     <html>
     <head>
         <meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
-        <title>Saved Report</title><link rel="stylesheet" href="/static/tailwind.css">
+        <title>Saved Report</title><script src="https://cdn.tailwindcss.com"></script>
     </head>
     <body class="bg-slate-50 text-slate-800 antialiased min-h-screen">
         <!-- START_WRAPPER_PLACEHOLDER -->
@@ -1527,7 +1527,7 @@ def admin_files_page():
     <html>
     <head>
         <meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
-        <title>Files</title><link rel="stylesheet" href="/static/tailwind.css">
+        <title>Files</title><script src="https://cdn.tailwindcss.com"></script>
     </head>
     <body class="bg-slate-50 text-slate-800 antialiased min-h-screen">
         <!-- START_WRAPPER_PLACEHOLDER -->
